@@ -1,0 +1,232 @@
+@media screen and (max-width: 1200px) {
+    html {
+        overflow-x: hidden;
+    }
+
+    h1 {
+        font-size: 57px;
+    }
+
+    .order form .content {
+        margin-top: -90px;
+    }
+
+
+    h2 {
+        font-size: 43px;
+    }
+
+    .about-second {
+        top: -50px;
+        padding: 3% 3%;
+    }
+
+    .about .content p {
+        margin-right: 0;
+    }
+
+    .about-second .since .text .content .year {
+        font-size: 46px;
+    }
+
+    .about-second .since .text .content .small-text {
+        font-size: 26px;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+
+    h1 {
+        font-size: 41px;
+    }
+
+    .order form .content {
+        margin-top: -50px;
+    }
+
+    .about-second {
+        top: -50px;
+        padding: 2% 0;
+    }
+
+    .booking-app .download {
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .statistic .content p {
+        font-size: 16px;
+    }
+
+}
+
+@media screen and (max-width: 912px) {
+    .about .row {
+        flex-direction: column-reverse;
+    }
+
+    .about .content {
+        margin-bottom: 20px;
+    }
+
+    .booking-sistem .sistem-seat .main-seat {
+        padding: 20px 20px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .about .row {
+        flex-direction: column-reverse;
+    }
+
+    .about .content {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .navbar .container .navbar-nav .nav-item {
+        margin: 0;
+    }
+
+    .header {
+        padding: 80px 0;
+        background-size: cover;
+        background-position: top;
+        color: #fff;
+    }
+
+    .header .content h1 {
+        margin: 20px 0;
+        color: #fff;
+    }
+
+    .order form .content {
+        margin-top: -12px;
+    }
+
+    .about-second {
+        top: -70px;
+    }
+
+    .about-second .since .text .content {
+        margin-top: 20px;
+        padding: 7px;
+    }
+
+    .about .row {
+        flex-direction: column-reverse;
+    }
+
+    .about .content {
+        margin-bottom: 20px;
+    }
+
+    h4 {
+        font-size: 19px;
+    }
+
+    .booking-sistem .sistem-journey {
+        margin-bottom: 20px;
+    }
+
+    .booking-sistem .sistem-seat .main-seat {
+        padding: 20px 20px;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+
+
+    .about-second .since .text .content {
+        margin-top: 0;
+        padding: 7px;
+    }
+
+    .about-second .since .text .content .year {
+        font-size: 34px;
+    }
+
+    .about-second .since .text .content .small-text {
+        font-size: 18px;
+    }
+
+    .order form .content .form-select {
+        margin-bottom: 20px;
+    }
+
+    .booking-sistem .sistem-journey {
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+
+    .contact .content {
+        margin-bottom: 20px;
+    }
+
+    .blog .pagination-div {
+        margin-bottom: 40px;
+    }
+
+    .blog .pagination-div .pagination .page-item {
+        margin: 0 5px;
+    }
+
+    .contact {
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+    .about-second .since .text .content .year {
+        font-size: 38px;
+    }
+
+    .about-second .since .text .content .small-text {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    html {
+        overflow-x: hidden;
+    }
+
+    .about-second {
+        margin: 0;
+    }
+
+    .about-second .since .text .content .year {
+        font-size: 35px;
+    }
+
+    .about-second .since .text .content .small-text {
+        font-size: 18px;
+    }
+
+    .booking-sistem .sistem-seat .main-seat {
+        padding: 20px 21px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .about-second .since .text .content {
+        padding: 2px;
+    }
+
+    .about-second .since .text .content .year {
+        font-size: 31px;
+    }
+
+    .about-second .since .text .content .small-text {
+        font-size: 17px;
+    }
+}
